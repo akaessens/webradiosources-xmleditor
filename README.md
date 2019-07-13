@@ -3,6 +3,6 @@ Webpage to generate webradiosources for https://github.com/akaessens/raspi_music
 
 # Installation
 
-install apache2, npm, jquery.xmleditor, php
-replace jquery.xmleditor files with the ones provided here
+1. install apache2, npm, jquery.xmleditor, php
+2. replace jquery.xmleditor files with the ones provided here
 
